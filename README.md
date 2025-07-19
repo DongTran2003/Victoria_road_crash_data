@@ -10,9 +10,9 @@ Dataset documentation and reference can be found at: https://opendata.transport.
 
 ## 📊 Project Overview
 
-1. Goal: Investigate why certain cities—particularly Geelong and Melbourne—exhibit significant differences in the rate of serious accidents, and uncover the underlying factors driving these disparities.
+1. **Goal**: Investigate why certain cities—particularly Geelong and Melbourne—exhibit significant differences in the rate of serious accidents, and uncover the underlying factors driving these disparities.
 
-2. Methodology:
+2. **Methodology**:
 
 - Exploratory Data Analysis (EDA)
 
@@ -22,7 +22,7 @@ Dataset documentation and reference can be found at: https://opendata.transport.
 
 - Random Forest classification to identify key risk factors
 
-3. Findings:
+3. **Findings**:
 
 - Heavier and older vehicles in Geelong
 
