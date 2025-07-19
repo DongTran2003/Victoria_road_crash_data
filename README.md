@@ -4,7 +4,7 @@ This project investigates the striking difference in serious accident rates betw
 
 Through data cleaning, EDA, and machine learning, we uncover the key factors contributing to Geelong's higher accident severity.
 
-Dataset documentation and reference can be found at: https://opendata.transport.vic.gov.au/dataset/victoriaroad-crash-data
+Dataset documentation and reference can be found at: https://opendata.transport.vic.gov.au/dataset/victoria-road-crash-data
 
 **Click [here](Victoria_Crash_Accident_Report.ipynb) to open the full report, or [here](victoria-crash-accident-final-report.pdf) for PDF file.**
 
